@@ -7,7 +7,7 @@ Geliştirildikçe güncellenecektir.
 
 [![License](http://img.shields.io/:license-apache-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html) 
 
-###Simple Application
+###Örnek Uygulama
 ```php
     //Setting up important stuff
     require_once ('template.class.php');
