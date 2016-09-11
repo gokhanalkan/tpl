@@ -28,4 +28,4 @@ Geliştirildikçe güncellenecektir.
     echo $template->show(true);
 ```
 
-<i>To learn more about imcache please look at examples provided.</i>
+<i>İyi kodlamalar...</i>
