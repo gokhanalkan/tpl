@@ -1,10 +1,10 @@
 <?php
-    //Setting up important stuff
+    //Settings and includes
     require_once ('template.class.php');
     define('TEMPLATES_PATH', 'templates');
     define('PARTIALS_PATH', TEMPLATES_PATH.'/partials');
 
-    //Instanciate new object
+    //Creating a new object
     $template = new Template(TEMPLATES_PATH.'/test.tpl.html');
 
     //Assing values
